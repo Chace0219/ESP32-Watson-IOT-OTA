@@ -5,3 +5,4 @@ Implementation of ESP32 OTA via Watson IOT and Bluemix Storage service using TLS
 - Porting SecureHTTPUpdate Class from ESP8266
 - Implementation MbedTLS on ESP32   
 - OTA from Bluemix Storage Service on Watson IOT
+- Property class instead of EEPROM on ESP32
